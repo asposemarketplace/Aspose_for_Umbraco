@@ -12,7 +12,7 @@
 <p style="padding-left: 30px;">Please check the <a href="http://www.youtube.com/watch?v=EcZZzswqybc"> video</a> below to see this macro in action.<br /> <a href="http://www.youtube.com/watch?v=EcZZzswqybc">http://www.youtube.com/watch?v=EcZZzswqybc</a></p>
 <hr />
 <h4>Macro Installation and Usage</h4>
-<h4>Installing the Macro in Umbraco</h4>
+<h5>Installing the Macro in Umbraco</h5>
 <ol>
 <li>Login to Umbraco <strong>Developer</strong> section, for example http://www.myblog.com/umbraco/</li>
 <li>From the tree, expand the<strong> Packages</strong> folder.</li>
@@ -24,7 +24,7 @@
 <pre><code>&lt;httpRuntime requestValidationMode="2.0" enableVersionHeader="false" 
              maxRequestLength="25000" /&gt;
 </code></pre>
-<h4>Using the Installed Macro</h4>
+<h5>Using the Installed Macro</h5>
 <p>After you have installed the macro it is really simple to start using it on your website. Please follow these simple steps to get started:</p>
 <ol>
 <li>Make sure you are logged-in to Umbraco <strong>Developer</strong> section, for example http://www.myblog.com/umbraco/</li>
@@ -43,7 +43,7 @@
 <tbody>
 <tr>
 <td colspan="2" align="left" valign="top">
-<h4>Aspose.Cells for .NET</h4>
+<h5>Aspose.Cells for .NET</h5>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@
 </tr>
 <tr>
 <td colspan="2" align="left" valign="top">
-<h4>Aspose.Words for .NET</h4>
+<h5>Aspose.Words for .NET</h5>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@
 </tr>
 <tr>
 <td colspan="2" align="left" valign="top">
-<h4>Aspose.Pdf for .NET</h4>
+<h5>Aspose.Pdf for .NET</h5>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@
 </tr>
 <tr>
 <td colspan="2" align="left" valign="top">
-<h4>Aspose.Slides for .NET</h4>
+<h5>Aspose.Slides for .NET</h5>
 </td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@
 </tr>
 <tr>
 <td colspan="2" align="left" valign="top">
-<h4>Aspose.BarCode for .NET</h4>
+<h5>Aspose.BarCode for .NET</h5>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@
 </tr>
 <tr>
 <td colspan="2" align="left" valign="top">
-<h4>Aspose.Tasks for .NET</h4>
+<h5>Aspose.Tasks for .NET</h5>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@
 </tr>
 <tr>
 <td colspan="2" align="left" valign="top">
-<h4>Aspose.Email for .NET</h4>
+<h5>Aspose.Email for .NET</h5>
 </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@
 </tr>
 <tr>
 <td colspan="2" align="left" valign="top">
-<h4>Aspose.Diagram for .NET</h4>
+<h5>Aspose.Diagram for .NET</h5>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@
 </tr>
 <tr>
 <td colspan="2" align="left" valign="top">
-<h4>Aspose.OCR for .NET</h4>
+<h5>Aspose.OCR for .NET</h5>
 </td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@
 </tr>
 <tr>
 <td colspan="2" align="left" valign="top">
-<h4>Aspose.Imaging for .NET</h4>
+<h5>Aspose.Imaging for .NET</h5>
 </td>
 </tr>
 <tr>

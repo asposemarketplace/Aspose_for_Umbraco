@@ -1,41 +1,16 @@
-<p>Umbraco &lsquo;Export to Word&rsquo; and 'Export to Pdf' macros allow users to export online content into Word and PDF document using Aspose.Words and Aspose.Pdf.</p>
-<h3>Umbraco Export to Word using Aspose.Words</h3>
-<p>Umbraco &lsquo;Export to Word&rsquo; macro allow users to export online content into Word document using <a href="http://www.aspose.com/word-component-suite.aspx">Aspose.Words</a>. This macro makes it super simple to have an offline copy of your favorite online content for editing, sharing and printing etc. in most popular Word (doc/docx) format. It adds a simple &lsquo;Export to Word&rsquo; button at any desired location on the page and clicking it dynamically exports the content of the page to a word document and then automatically downloads the file to the disk location selected by the user in just couple of seconds.</p>
-<p style="text-align: center;"><img title="Export-to-word" src="http://www.aspose.com/blogs/wp-content/uploads/2014/01/Export-to-word.png" alt="Export to word Umbraco Export to Word using Aspose.Words" width="450" height="249" /></p>
-<h3>Video</h3>
-<p style="padding-left: 30px;">Please check the <a href="http://www.youtube.com/watch?v=3EHf3Giq6l0"> video</a> below to see this macro in action.<br /> <a href="http://www.youtube.com/watch?v=3EHf3Giq6l0">http://www.youtube.com/watch?v=3EHf3Giq6l0</a></p>
-<hr />
-<h3>Umbraco Export to Pdf using Aspose.Words</h3>
-<p>Umbraco &lsquo;Export to Pdf&rsquo; macro allow users to export online content into Pdf document using <a href="http://www.aspose.com/word-component-suite.aspx">Aspose.Words</a>. This macro makes it very easy and simple to have an offline copy of your favorite online content for sharing and printing etc. in popular Pdf format. It adds a simple &lsquo;Export to Pdf&rsquo; button at any desired location on the page and clicking it dynamically exports the content of the page to a Pdf document and then automatically downloads the file to the disk location selected by the user in just couple of seconds.</p>
-<p style="text-align: center;"><img title="Export-to-pdf" src="http://www.aspose.com/blogs/wp-content/uploads/2014/01/Export-to-pdf.png" alt="Export to pdf Umbraco Export to Pdf using Aspose.Pdf" /></p>
-<h4>Video</h4>
-<p style="padding-left: 30px;">Please check the <a href="http://www.youtube.com/watch?v=EcZZzswqybc"> video</a> below to see this macro in action.<br /> <a href="http://www.youtube.com/watch?v=EcZZzswqybc">http://www.youtube.com/watch?v=EcZZzswqybc</a></p>
-<hr />
-<h4>Macro Installation and Usage</h4>
-<h5>Installing the Macro in Umbraco</h5>
-<ol>
-<li>Login to Umbraco <strong>Developer</strong> section, for example http://www.myblog.com/umbraco/</li>
-<li>From the tree, expand the<strong> Packages</strong> folder.</li>
-<li>From here there are two ways to install a package: select <strong>Install local package </strong>or browse the <strong>Umbraco Package Respository.</strong></li>
-<li>If you install <strong>local package</strong>, do not unzip the package but load the zip into Umbraco.</li>
-<li>Follow the instructions on screen</li>
-</ol>
-<p><strong>Note:</strong> You may get a &lsquo;Maximum request length exceeded&rsquo; error when installing. You can easily fix this issue by updating the &lsquo;maxRequestLength&rsquo; value in your Umbraco web.config file.</p>
-<pre><code>&lt;httpRuntime requestValidationMode="2.0" enableVersionHeader="false" 
-             maxRequestLength="25000" /&gt;
-</code></pre>
-<h5>Using the Installed Macro</h5>
-<p>After you have installed the macro it is really simple to start using it on your website. Please follow these simple steps to get started:</p>
-<ol>
-<li>Make sure you are logged-in to Umbraco <strong>Developer</strong> section, for example http://www.myblog.com/umbraco/</li>
-<li>Click <strong>Settings</strong> in the list of sections in bottom left of the screen.</li>
-<li>Expand the <strong>Templates</strong> node and select the template that you want to add the Export to Word/Pdf feature to, for example Blog post.</li>
-<li>Select the position in the selected template where you want to export button to be added. Usually you probably want to add it to the top right of the page, or the bottom of the page.</li>
-<li>Click <strong>Insert Macro</strong> on the top ribbon.</li>
-<li>From <strong>Choose a macro</strong>, select the recently installed Export to Word/Pdf using Aspose.Words macro and click <strong>OK</strong>. <br /> Please check the screenshot below for details.</li>
-</ol>
-<div id="attachment_12501" style="width: 722px;"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/01/how-to-use-export-to-word-macro.png"><img title="how-to-use-export-to-word-macro" src="http://www.aspose.com/blogs/wp-content/uploads/2014/01/how-to-use-export-to-word-macro.png" alt="how to use export to word macro Umbraco Export to Microsoft Word using Aspose.Words" width="712" height="353" /></a></div>
-<p>You have successfully added Export to Word/Pdf to the template. A button titled <strong>Export to Word/Pdf</strong> will now appear on all pages created using this template. Anyone can simply click the button and export the content of the page into a Word document.</p>
+<h2>What is Umbraco?</h2>
+<p><strong>Umbraco</strong> is one of only a few open source web content management systems built on Microsoft's .NET technology stack. This CMS is no "out the box" solution. To the contrary, it's a content management system for .NET web developers. And while it's relatively straightforward to use, one must first deal with a steep learning curve.</p>
+
+<p><strong>Below is the major outline of Umbraco macros that we have created using Aspose APIs</strong></p>
+<ul>
+<li><a href="https://asposeumbraco.codeplex.com/wikipage?title=Umbraco%20Export%20to%20Word%20using%20Aspose.Words">Umbraco Export to Word using Aspose.Words</a></li>
+<li><a href="https://asposeumbraco.codeplex.com/wikipage?title=Umbraco%20Export%20to%20Pdf%20using%20Aspose.Words&amp;IsNewlyCreatedPage=true">Umbraco Export to Pdf using Aspose.Words</a></li>
+<li><a href="https://asposeumbraco.codeplex.com/wikipage?title=Umbraco%20Import%20from%20Word%20using%20Aspose.Words">Umbraco Import from Word using Aspose.Words</a></li>
+<li><a href="https://asposeumbraco.codeplex.com/wikipage?title=Umbraco%20Import%20from%20Pdf%20using%20Aspose.Pdf">Umbraco Import from Pdf using Aspose.Pdf</a></li>
+<li><a href="https://asposeumbraco.codeplex.com/wikipage?title=Aspose%20.NET%20Gmail%20Sync%20for%20Umbraco">Aspose .NET Gmail Sync for Umbraco</a></li>
+</ul>
+
+
 <hr />
 <h4>What is the use of Aspose .NET Products?</h4>
 <p><a href="http://www.aspose.com">Aspose</a> are file format experts and provide APIs and components for various file formats including MS Office, OpenOffice, PDF and Image formats. These APIs are available on a number of development platforms including .NET frameworks &ndash; the .NET frameworks starting from version 2.0 are supported. If you are a .NET developer, you can use Aspose&rsquo;s native .NET APIs in your .NET applications to process various file formats in just a few lines of codes. All the Aspose APIs don&rsquo;t have any dependency over any other engine. For example, you don&rsquo;t need to have MS Office installed on the server to process MS Office files. Below is a list of products we support for .NET developers:</p>

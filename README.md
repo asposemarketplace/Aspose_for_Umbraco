@@ -8,6 +8,7 @@
 <li><a href="https://asposeumbraco.codeplex.com/wikipage?title=Umbraco%20Import%20from%20Word%20using%20Aspose.Words">Umbraco Import from Word using Aspose.Words</a></li>
 <li><a href="https://asposeumbraco.codeplex.com/wikipage?title=Umbraco%20Import%20from%20Pdf%20using%20Aspose.Pdf">Umbraco Import from Pdf using Aspose.Pdf</a></li>
 <li><a href="https://asposeumbraco.codeplex.com/wikipage?title=Aspose%20.NET%20Gmail%20Sync%20for%20Umbraco">Aspose .NET Gmail Sync for Umbraco</a></li>
+<li><a href="https://github.com/asposemarketplace/Aspose_for_Umbraco/wiki/Aspose-.NET-Exchange-Sync-for-Umbraco">Aspose .NET Exchange Sync for Umbraco</li>
 </ul>
 
 
